@@ -1,0 +1,14 @@
+{
+  "name": "b9ed1a6bda27d16a",
+  "main": "b9ed1a6bda27d16a@2.js",
+  "version": "2.0.0",
+  "homepage": "https://observablehq.com/d/b9ed1a6bda27d16a",
+  "author": {
+    "name": "data-visualizationz",
+    "url": "https://observablehq.com/@data-visualizationz"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
